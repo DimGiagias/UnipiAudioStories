@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnipiAudioStories</string>
+    <string name="login">ログイン</string>
+    <string name="username">ユーザー名</string>
+    <string name="password">パスワード</string>
+    <string name="email">電子メール</string>
+    <string name="stats">統計</string>
+    <string name="tap_to_continue_listening">タップして聞き続けます</string>
+    <string name="languages">利用可能な言語</string>
+    <string name="logout">ログアウト</string>
+    <string name="by">タウ/タウ</string>
+    <string name="speed">スピード</string>
+    <string name="back">戻る</string>
+    <string name="voice">声</string>
+    <string name="choose_a_voice">音声を選択</string>
+    <string name="your_favorite_stories">あなたのお気に入りの物語</string>
+    <string name="reading_progress">読書の進捗</string>
+    <string name="elapsed">経過</string>
+    <string name="heard">聞いた</string>
+    <string name="profile">プロフィール</string>
+    <string name="home">中央</string>
+    <string name="play">遊ぶ</string>
+    <string name="stop">停止</string>
+    <string name="times">回</string>
+    <string name="no_account">アカウントをお持ちではありませんか？</string>
+    <string name="register">登録する</string>
+    <string name="succesfull_login">サインインに成功しました</string>
+    <string name="has_account">すでにアカウントをお持ちですか?</string>
+    <string name="confirm_password">パスワードを認証する</string>
+</resources>

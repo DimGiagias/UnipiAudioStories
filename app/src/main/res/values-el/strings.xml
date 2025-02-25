@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnipiAudioStories</string>
+    <string name="login">Συνδέσου</string>
+    <string name="username">Όνομα Χρήστη</string>
+    <string name="password">Κωδικός</string>
+    <string name="email">Έμαιλ</string>
+    <string name="stats">Στατιστικά</string>
+    <string name="tap_to_continue_listening">Πατήστε για να συνεχίσετε το άκουσμα</string>
+    <string name="languages">Διαθέσιμες Γλώσσες</string>
+    <string name="logout">Αποσυνδέσου</string>
+    <string name="by">του/της</string>
+    <string name="heard">Ακούστηκε</string>
+    <string name="your_favorite_stories">Οι Αγαπημένες σου Ιστορίες</string>
+    <string name="reading_progress">Πρόοδος Ανάγνωσης</string>
+    <string name="elapsed">Ακούστηκαν</string>
+    <string name="voice">Φωνές</string>
+    <string name="choose_a_voice">Επιλέξτε Φωνή</string>
+    <string name="speed">Ταχύτητα Αναπαραγωγής</string>
+    <string name="back">Πίσω</string>
+    <string name="profile">Προφίλ</string>
+    <string name="home">Κεντρική</string>
+    <string name="play">Παίξε</string>
+    <string name="stop">Παύση</string>
+    <string name="times">φορές</string>
+    <string name="no_account">Δεν έχετε λογαριασμό;</string>
+    <string name="register">Γραφτείτε</string>
+    <string name="succesfull_login">Επιτυχής Σύνδεση</string>
+    <string name="has_account">Έχετε ήδη λογαριασμό;</string>
+    <string name="confirm_password">Επιβεβαιώστε Κωδικό</string>
+</resources>

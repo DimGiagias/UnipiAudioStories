@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">UnipiAudioStories</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="stats">Stats</string>
+    <string name="tap_to_continue_listening">"Tap to continue listening"</string>
+    <string name="languages">Available Languages</string>
+    <string name="logout">Logout</string>
+    <string name="by">by</string>
+    <string name="heard">Heard</string>
+    <string name="your_favorite_stories">Your Favorite Stories</string>
+    <string name="reading_progress">Reading Progress</string>
+    <string name="elapsed">Elapsed</string>
+    <string name="voice">Voice</string>
+    <string name="choose_a_voice">Choose a Voice</string>
+    <string name="speed">Speed</string>
+    <string name="back">Back</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="times">times</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="succesfull_login">Sign-in Succesful</string>
+    <string name="has_account">Already have an account?</string>
+    <string name="confirm_password">Confirm Password</string>
+</resources>

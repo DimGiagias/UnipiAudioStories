@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnipiAudioStories</string>
+    <string name="login">Acceso</string>
+    <string name="username">Nombre de Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="stats">Estadísticas</string>
+    <string name="tap_to_continue_listening">Toca para seguir escuchando</string>
+    <string name="languages">Idioma Disponible</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="by">Por</string>
+    <string name="heard">Escuchó</string>
+    <string name="your_favorite_stories">Tus Ηistorias Φavoritas</string>
+    <string name="reading_progress">Progreso de lectura</string>
+    <string name="elapsed">Transcurrido</string>
+    <string name="voice">Voz</string>
+    <string name="choose_a_voice">Elige una Voz</string>
+    <string name="speed">Velocidad</string>
+    <string name="back">Atrás</string>
+    <string name="profile">Perfil</string>
+    <string name="home">Pantalla de Inicio</string>
+    <string name="play">Reproducir</string>
+    <string name="stop">Detener</string>
+    <string name="times">veces</string>
+    <string name="no_account">¿No tienes una cuenta?</string>
+    <string name="register">Registro</string>
+    <string name="succesfull_login">Inicio de sesión exitoso</string>
+    <string name="has_account">¿Ya tienes una cuenta?</string>
+    <string name="confirm_password">Confirmar Contraseña</string>
+</resources>
