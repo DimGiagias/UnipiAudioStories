@@ -1,6 +1,6 @@
 # UnipiAudioStories
 
-UnipiAudioStories is an Android application designed to provide users with an immersive audio storytelling experience. The app allows users to explore, listen to, and manage their favorite audio stories, while also offering features like text-to-speech playback, multilingual support, and user statistics.
+UnipiAudioStories is an Android application created as part of the 7th semester course "Modern Issues in Software Technology - Software for Mobile Devices", designed to provide users with an immersive audio storytelling experience. The app allows users to explore, listen to, and manage their favorite audio stories, while also offering features like text-to-speech playback, multilingual support, and user statistics.
 
 ---
 
@@ -61,7 +61,7 @@ UnipiAudioStories is an Android application designed to provide users with an im
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/UnipiAudioStories.git
+   git clone https://github.com/DimGiagias/UnipiAudioStories.git
 2. Open the project in Android Studio.
 3. Sync the Gradle files.
 4. Add your google-services.json file to the app/ directory for Firebase integration.
@@ -98,8 +98,18 @@ app/
 │   │   │   ├── utils/         # Utility classes (e.g., TTSManager, URL transformations)
 │   │   │   ├── viewmodel/     # ViewModels for managing app state
 │   │   ├── res/               # Resources (layouts, strings, drawables, etc.)
-│   │   ├── [AndroidManifest.xml]
+│   │   ├── AndroidManifest.xml
 │   ├── test/                  # Unit tests
 │   ├── androidTest/           # Instrumented tests
-├── [build.gradle.kts]         # Project-level Gradle configuration
-├── [settings.gradle.kts]      # Gradle settings
+├── build.gradle.kts           # Project-level Gradle configuration
+├── settings.gradle.kts        # Gradle settings
+```
+
+---
+
+## License
+
+This project is licensed under the **Apache License 2.0**.  
+You may use, distribute, and modify this project under the terms of the license.  
+
+For more details, see the [LICENSE](https://github.com/DimGiagias/UnipiAudioStories/blob/main/LICENSE) file or visit the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) webpage.
