@@ -64,7 +64,7 @@ UnipiAudioStories is an Android application created as part of the 7th semester 
    git clone https://github.com/DimGiagias/UnipiAudioStories.git
 2. Open the project in Android Studio.
 3. Sync the Gradle files.
-4. Add your google-services.json file to the app/ directory for Firebase integration.
+4. Add your `google-services.json` file to the `app/` directory for Firebase integration.
 5. Build and run the app on an emulator or physical device.
 
 ## Usage
